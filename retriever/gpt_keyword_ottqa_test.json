@@ -1,0 +1,727 @@
+{
+    "0": {
+        "keywords": [
+            "created",
+            "series",
+            "Robert",
+            "Nonso Anozie"
+        ],
+        "data_item": {
+            "question_id": "2b6359edb1b352c3",
+            "question": "Who created the series in which the character of Robert , played by actor Nonso Anozie , appeared ?",
+            "table_id": "Nonso_Anozie_1",
+            "answer-text": "Lynda La Plante",
+            "question_postag": "WP VBD DT NN IN WDT DT NN IN NNP , VBN IN NN NNP NNP , VBD ."
+        }
+    },
+    "1": {
+        "keywords": [
+            "Sevens Grand Prix Series",
+            "championship win",
+            "team",
+            "qualify"
+        ],
+        "data_item": {
+            "question_id": "1bd5ee91518dc589",
+            "question": "What did the 2nd championship win at the Sevens Grand Prix Series for the team with the most top 4 finishes qualify them for ?",
+            "table_id": "Sevens_Grand_prix_series_0",
+            "answer-text": "2016 Summer Olympics",
+            "question_postag": "WP VBD DT CD NN NN IN DT NNP NNP NNP NNP IN DT NN IN DT RBS JJ CD NNS VB PRP IN ."
+        }
+    },
+    "2": {
+        "keywords": [
+            "70's",
+            "Kishore Kumar",
+            "Alankar Chitra",
+            "Shanker Mukherjee"
+        ],
+        "data_item": {
+            "question_id": "b2fa6dea5e272acc",
+            "question": "This 70 's Kishore Kumar song was in a film produced by Alankar Chitra and directed by Shanker Mukherjee ?",
+            "table_id": "Kishore_Kumar_1",
+            "answer-text": "Main Pyaasa Tum",
+            "question_postag": "DT CD POS NNP NNP NN VBD IN DT NN VBN IN NNP NNP CC VBN IN NNP NNP ."
+        }
+    },
+    "3": {
+        "keywords": [
+            "Bradford A.F.C",
+            "player",
+            "2011"
+        ],
+        "data_item": {
+            "question_id": "24ae33636128ba03",
+            "question": "What is the full birth name of the Bradford A.F.C player that only played for the team in 2011 ?",
+            "table_id": "Bradford_City_A.F.C._0",
+            "answer-text": "Guy Peter Bromley Branston",
+            "question_postag": "WP VBZ DT JJ NN NN IN DT NNP NNP NN IN RB VBN IN DT NN IN CD ."
+        }
+    },
+    "4": {
+        "keywords": [
+            "Budapest",
+            "BME",
+            "academic staff"
+        ],
+        "data_item": {
+            "question_id": "25019a7623f4ad5e",
+            "question": "How many academic staff are at the university in Budapest that has the official abbreviation BME ?",
+            "table_id": "Budapest_0",
+            "answer-text": "961",
+            "question_postag": "WRB JJ JJ NN VBP IN DT NN IN NNP WDT VBZ DT JJ NN NNP ."
+        }
+    },
+    "5": {
+        "keywords": [
+            "1995 Tooheys 1000",
+            "driver",
+            "born"
+        ],
+        "data_item": {
+            "question_id": "a1d6704c2b0c48bc",
+            "question": "The 1995 Tooheys 1000 driver who was second-to-last in the Tooheys Top 10 was born where ?",
+            "table_id": "1995_Tooheys_1000_0",
+            "answer-text": "Sydney",
+            "question_postag": "DT CD NNP CD NN WP VBD NN IN DT NNP NNP CD VBD VBN WRB ."
+        }
+    },
+    "6": {
+        "keywords": [
+            "capacity",
+            "home grounds",
+            "Arsenal FC",
+            "FC Dordecht"
+        ],
+        "data_item": {
+            "question_id": "d76b0d98f72a7526",
+            "question": "What is the capacity of the home grounds of the club a player transfered from Arsenal FC to FC Dordecht ?",
+            "table_id": "2015\u201316_Arsenal_F.C._season_2",
+            "answer-text": "15,728",
+            "question_postag": "WP VBZ DT NN IN DT NN NNS IN DT NN DT NN VBN IN NNP NNP TO NNP NNP ."
+        }
+    },
+    "7": {
+        "keywords": [
+            "NYU prize winner",
+            "ARTS"
+        ],
+        "data_item": {
+            "question_id": "b5cfc92181b6511b",
+            "question": "What is the full name of the person who is a NYU prize winner alumnus associated with ARTS ?",
+            "table_id": "List_of_New_York_University_alumni_22",
+            "answer-text": "Milton Byron Babbitt",
+            "question_postag": "WP VBZ DT JJ NN IN DT NN WP VBZ DT NNP NNP NNP RB VBD IN NNP ."
+        }
+    },
+    "8": {
+        "keywords": [
+            "2009-10 season",
+            "Vancouver Canucks",
+            "Rob Davison",
+            "Toronto Marlies"
+        ],
+        "data_item": {
+            "question_id": "f9575f412a27c3dd",
+            "question": "What position does 2009\u201310 season Vancouver Canucks player Rob Davison currently hold with the Toronto Marlies ?",
+            "table_id": "2009\u201310_Vancouver_Canucks_season_14",
+            "answer-text": "assistant coach",
+            "question_postag": "WP NN VBZ CD NN NNP NNP NN NNP NNP RB VBP IN DT NNP NNP ."
+        }
+    },
+    "9": {
+        "keywords": [
+            "season 5",
+            "couple celebrity",
+            "Jonathan Roberts",
+            "Dancing with the Stars"
+        ],
+        "data_item": {
+            "question_id": "0190463339d6f441",
+            "question": "What is the best known song sung by the couple celebrity paired with Jonathan Roberts during the season 5 of Dancing with the Stars in america ?",
+            "table_id": "Dancing_with_the_Stars_(U.S._season_5)_0",
+            "answer-text": "Paper Roses",
+            "question_postag": "WP VBZ DT JJS VBN NN NN IN DT NN VBN IN NNP NNP IN DT NN CD IN VBG IN DT NNP IN NN ."
+        }
+    },
+    "10": {
+        "keywords": [
+            "George Augustus Vaughn Jr.",
+            "WW 1",
+            "reconnaissance biplane"
+        ],
+        "data_item": {
+            "question_id": "cfd274e6f1fcc6ab",
+            "question": "What department is the location in where the opponent of George Augustus Vaughn Jr. was a double seater reconnaissance biplane in WW 1 ?",
+            "table_id": "George_Augustus_Vaughn,_Jr._0",
+            "answer-text": "Somme",
+            "question_postag": "WP NN VBZ DT NN IN WRB DT NN IN NNP NNP NNP NNP VBD DT JJ NN NN NN ."
+        }
+    },
+    "11": {
+        "keywords": [
+            "Argentinian",
+            "Primera B Metropolitana",
+            "1969 Metropolitano",
+            "division"
+        ],
+        "data_item": {
+            "question_id": "6e4c3ff7e2eb1d28",
+            "question": "The Argentinian Primera B Metropolitana club in the city that won the 1969 Metropolitano plays in what division ?",
+            "table_id": "List_of_football_clubs_in_Argentina_2",
+            "answer-text": "Argentine Primera Divisi\u00f3n",
+            "question_postag": "DT JJ NNP NNP NNP NN IN DT NN WDT VBD DT CD NNP NNS IN WP NN ."
+        }
+    },
+    "12": {
+        "keywords": [
+            "2018",
+            "Emerging Nations World Championship",
+            "RLIF rank",
+            "lowest"
+        ],
+        "data_item": {
+            "question_id": "c325073596b90404",
+            "question": "Which nation participating in the 2018 Emerging Nations World Championship had the lowest RLIF rank number ?",
+            "table_id": "2018_Emerging_Nations_World_Championship_0",
+            "answer-text": "Malta",
+            "question_postag": "JJ NN VBG IN DT CD NNP NNP NNP NNP VBD DT JJS NNP NN NN ."
+        }
+    },
+    "13": {
+        "keywords": [
+            "Spain",
+            "football",
+            "Fenerbah\u00e7e S.K.",
+            "0-2"
+        ],
+        "data_item": {
+            "question_id": "2ec999e25f74925f",
+            "question": "What is Spain 's oldest sporting club solely devoted to football with a 2014\u201315 Fenerbah\u00e7e S.K . season result F-A of 0-2 ?",
+            "table_id": "2014\u201315_Fenerbah\u00e7e_S.K._season_7",
+            "answer-text": "Sevilla F\u00fatbol Club",
+            "question_postag": "WP VBZ NNP POS JJS NN NN RB VBN TO NN IN DT CD NNP NNP . NN VBD NNP IN NNP ."
+        }
+    },
+    "14": {
+        "keywords": [
+            "millions",
+            "subscription",
+            "YouTube",
+            "MoreAliA"
+        ],
+        "data_item": {
+            "question_id": "fec7be5ae9d6a165",
+            "question": "How many millions have a subscription to the primary channel of the YouTube personality person with the Youtube username MoreAliA ?",
+            "table_id": "List_of_YouTube_personalities_0",
+            "answer-text": "16",
+            "question_postag": "WRB JJ NNS VBP DT NN TO DT JJ NN IN DT NNP NN NN IN DT NNP NN NNP ."
+        }
+    },
+    "15": {
+        "keywords": [
+            "television show",
+            "Trevor Eyster",
+            "1986 book"
+        ],
+        "data_item": {
+            "question_id": "86d2ab8434ba97af",
+            "question": "Which television show starring Trevor Eyster was based on a 1986 book by Steve Slavkin and Thomas Hill ?",
+            "table_id": "Trevor_Eyster_0",
+            "answer-text": "Salute Your Shorts",
+            "question_postag": "JJ NN NN VBG NNP NNP VBD VBN IN DT CD NN IN NNP NNP CC NNP NNP ."
+        }
+    },
+    "16": {
+        "keywords": [
+            "capital city",
+            "country",
+            "Kangaroo Cup",
+            "retire"
+        ],
+        "data_item": {
+            "question_id": "e24420af76d04d3a",
+            "question": "How many residents does the capital city of the country represented by the 2015 Kangaroo Cup single 's player to finally retire in Sept 2017 have ?",
+            "table_id": "2015_Kangaroo_Cup_0",
+            "answer-text": "38 million",
+            "question_postag": "WRB JJ NNS VBZ DT NN NN IN DT NN VBN IN DT CD NNP NNP JJ POS NN TO RB VB IN NNP CD VBP ."
+        }
+    },
+    "17": {
+        "keywords": [
+            "manager",
+            "2019 Campeonato Mineiro",
+            "Raposa"
+        ],
+        "data_item": {
+            "question_id": "1e0254d8e81e0e91",
+            "question": "What town was the manager born in whose 2019 Campeonato Mineiro club is nicknamed Raposa ?",
+            "table_id": "2019_Campeonato_Mineiro_0",
+            "answer-text": "Passo do Sobrado",
+            "question_postag": "WP NN VBD DT NN VBN IN WP$ CD NNP NNP NN VBZ VBN NNP ."
+        }
+    },
+    "18": {
+        "keywords": [
+            "ViacomCBS",
+            "Canon",
+            "nickname"
+        ],
+        "data_item": {
+            "question_id": "90b0d5dcf0eaf6b5",
+            "question": "By what nickname is the network that broadcast the ViacomCBS television program , Canon , sometimes known ?",
+            "table_id": "List_of_ViacomCBS_television_programs_28",
+            "answer-text": "the Eye Network",
+            "question_postag": "IN WP NN VBZ DT NN WDT VBD DT NNP NN NN , NNP , RB VBN ."
+        }
+    },
+    "19": {
+        "keywords": [
+            "protected area",
+            "Philippines",
+            "Camarines Sur"
+        ],
+        "data_item": {
+            "question_id": "6dc0dc143d118cf9",
+            "question": "By what name is the protected area in the Philippines located in Camarines Sur also known as ?",
+            "table_id": "List_of_protected_areas_of_the_Philippines_3",
+            "answer-text": "Mahad",
+            "question_postag": "IN WP NN VBZ DT JJ NN IN DT NNPS VBN IN NNP NNP RB VBN IN ."
+        }
+    },
+    "20": {
+        "keywords": [
+            "CEO",
+            "European Organisation",
+            "Meteorological Satellites",
+            "94,000 square miles"
+        ],
+        "data_item": {
+            "question_id": "22bbba6f447c6100",
+            "question": "Who is the CEO of the European Organisation for the Exploitation of Meteorological Satellites member in the country that covers 94,000 square miles ?",
+            "table_id": "EUMETSAT_0",
+            "answer-text": "Penelope Endersby",
+            "question_postag": "WP VBZ DT NN IN DT JJ NN IN DT NNP IN NNP NNP NN IN DT NN WDT VBZ CD NN NNS ."
+        }
+    },
+    "21": {
+        "keywords": [
+            "Danish first division",
+            "stadium capacity",
+            "founded"
+        ],
+        "data_item": {
+            "question_id": "1237c7721cff750f",
+            "question": "What year was the club that competed in Danish first division in 2018/19 , with a stadium capacity of 9,566 founded ?",
+            "table_id": "2018\u201319_Danish_1st_Division_0",
+            "answer-text": "1896",
+            "question_postag": "WP NN VBD DT NN WDT VBD IN NNP JJ NN IN CD , IN DT NN NN IN CD VBN ."
+        }
+    },
+    "22": {
+        "keywords": [
+            "20th Century Fox",
+            "Walt Disney Pictures",
+            "highest grossing film",
+            "Singapore"
+        ],
+        "data_item": {
+            "question_id": "88738d6628b72c0a",
+            "question": "Is 20th Century Fox or Walt Disney Pictures the creative studio behind the most highest grossing film of Singapore ?",
+            "table_id": "List_of_highest-grossing_films_in_Singapore_16",
+            "answer-text": "Walt Disney Pictures",
+            "question_postag": "VBZ JJ NNP NNP CC NNP NNP VBZ DT JJ NN IN DT RBS JJS VBG NN IN NNP ."
+        }
+    },
+    "23": {
+        "keywords": [
+            "RMIT",
+            "Denis Napthine",
+            "notability"
+        ],
+        "data_item": {
+            "question_id": "a49aa9dfa22788d7",
+            "question": "What is the notability of the person associated with RMIT who was succeeded by Denis Napthine ?",
+            "table_id": "List_of_alumni_and_faculty_of_the_Royal_Melbourne_Institute_of_Technology_11",
+            "answer-text": "Premier of Victoria",
+            "question_postag": "WP VBZ DT NN IN DT NN VBN IN NNP WP VBD VBN IN NNP NNP ."
+        }
+    },
+    "24": {
+        "keywords": [
+            "head coach",
+            "2016 USC Trojans",
+            "father"
+        ],
+        "data_item": {
+            "question_id": "81ff50f4edc36641",
+            "question": "Who is the head coach of the 2016 USC Trojans football team whose father was also a coach ?",
+            "table_id": "2016_USC_Trojans_football_team_0",
+            "answer-text": "Clay Helton",
+            "question_postag": "WP VBZ DT JJ NN IN DT CD NNP NNPS NN NN WP$ NN VBD RB DT NN ."
+        }
+    },
+    "25": {
+        "keywords": [
+            "Taiwanese television series",
+            "Jin Chao-chun",
+            "Chinese politician",
+            "1090"
+        ],
+        "data_item": {
+            "question_id": "b0c5459df30d4e24",
+            "question": "What is the title for the Taiwanese television series where Jin Chao-chun plays a Chinese politician who was born in the year 1090 ?",
+            "table_id": "Jin_Chao-chun_1",
+            "answer-text": "Eight Thousand Li of Cloud and Moon",
+            "question_postag": "WP VBZ DT NN IN DT JJ NN NN WRB NNP NNP VBZ DT JJ NN WP VBD VBN IN DT NN CD ."
+        }
+    },
+    "26": {
+        "keywords": [
+            "NHL FaceOff",
+            "cover athlete",
+            "music",
+            "July 5 1969"
+        ],
+        "data_item": {
+            "question_id": "4c0e497260eba456",
+            "question": "Who did the music of the NHL FaceOff installment game title whose cover athlete was born on July 5 , 1969 ?",
+            "table_id": "NHL_FaceOff_0",
+            "answer-text": "Tommy Tallarico",
+            "question_postag": "WP VBD DT NN IN DT NNP NNP JJ NN NN WP$ NN NN VBD VBN IN NNP CD , CD ."
+        }
+    },
+    "27": {
+        "keywords": [
+            "San Fernando region school",
+            "42145 30th St. West",
+            "largest graduating class"
+        ],
+        "data_item": {
+            "question_id": "982c752a969a1be0",
+            "question": "How many students constituted the largest graduating class of the San Fernando region school located at 42145 30th St. West ?",
+            "table_id": "San_Fernando_Pastoral_Region_6",
+            "answer-text": "203",
+            "question_postag": "WRB JJ NNS VBD DT JJS VBG NN IN DT NNP NNP NN NN VBN IN CD JJ NNP NNP ."
+        }
+    },
+    "28": {
+        "keywords": [
+            "river",
+            "Belarusian Premier League",
+            "Barysaw"
+        ],
+        "data_item": {
+            "question_id": "599e9228178abbc7",
+            "question": "What river is near the location of the Belarusian Premier League football club from the city of Barysaw ?",
+            "table_id": "2012_Belarusian_Premier_League_0",
+            "answer-text": "Berezina River",
+            "question_postag": "WP NN VBZ IN DT NN IN DT NNP NNP NNP NN NN IN DT NN IN NNP ."
+        }
+    },
+    "29": {
+        "keywords": [
+            "player of the month",
+            "earliest",
+            "full name"
+        ],
+        "data_item": {
+            "question_id": "48065341e145ed0f",
+            "question": "What is the full name of the earliest player of the month of the year ?",
+            "table_id": "SJPF_Segunda_Liga_Player_of_the_Month_0",
+            "answer-text": "M\u00e1rio Rui Correia Tom\u00e1s",
+            "question_postag": "WP VBZ DT JJ NN IN DT JJS NN IN DT NN IN DT NN ."
+        }
+    },
+    "30": {
+        "keywords": [
+            "network",
+            "Boss",
+            "total area"
+        ],
+        "data_item": {
+            "question_id": "c541ff211d5b3a3e",
+            "question": "What is the network that internationally airs `` Boss '' whose country has a total area of 385,207 square kilometres ( 148,729 sq mi ) ?",
+            "table_id": "Boss_(TV_series)_0",
+            "answer-text": "VOX",
+            "question_postag": "WP VBZ DT NN WDT RB VBZ `` NNP '' WP$ NN VBZ DT JJ NN IN CD JJ NNS ( CD NN NN ) ."
+        }
+    },
+    "31": {
+        "keywords": [
+            "Filipino",
+            "natural park",
+            "area",
+            "valley"
+        ],
+        "data_item": {
+            "question_id": "224f6942bc82c770",
+            "question": "What valley contains the Filipino natural park with the most area ?",
+            "table_id": "List_of_protected_areas_of_the_Philippines_0",
+            "answer-text": "Cagayan Valley",
+            "question_postag": "WP NN VBZ DT NNP JJ NN IN DT RBS NN ."
+        }
+    },
+    "32": {
+        "keywords": [
+            "engine manufacturer",
+            "Belgian Grand Prix",
+            "country"
+        ],
+        "data_item": {
+            "question_id": "174dfb5a00bc1ee9",
+            "question": "The engine manufacturer with the most Belgian Grand Prix wins is from what country ?",
+            "table_id": "Belgian_Grand_Prix_2",
+            "answer-text": "Italy",
+            "question_postag": "DT NN NN IN DT RBS JJ NNP NNP VBZ VBZ IN WP NN ."
+        }
+    },
+    "33": {
+        "keywords": [
+            "Dutch cyclist",
+            "2019 Tour de France",
+            "3rd place"
+        ],
+        "data_item": {
+            "question_id": "3fce81ceeb4f1f24",
+            "question": "Who was the Dutch cyclist who placed 3rd overall in the 2019 Tour de France , finishing just 1:31 behind the overall winner ?",
+            "table_id": "2019_Tour_de_France_3",
+            "answer-text": "Steven Kruijswijk",
+            "question_postag": "WP VBD DT JJ NN WP VBD CD JJ IN DT CD NNP FW NNP , VBG RB CD IN DT JJ NN ."
+        }
+    },
+    "34": {
+        "keywords": [
+            "Aksys Games",
+            "Choice Provisions Inc.",
+            "menu narration"
+        ],
+        "data_item": {
+            "question_id": "399221ebc0ddaa7c",
+            "question": "Of the games published by Aksys Games , the developer currently known as Choice Provisions Inc. made a game with menu narration by whom ?",
+            "table_id": "List_of_video_games_published_by_Aksys_Games_5",
+            "answer-text": "Charles Martinet",
+            "question_postag": "IN DT NNS VBN IN NNP NNP , DT NN RB VBN IN NNP NNP NNP VBD DT NN IN JJ NN IN WP ."
+        }
+    },
+    "35": {
+        "keywords": [
+            "2012-13 LEB Oro",
+            "sponsorship",
+            "least capacity"
+        ],
+        "data_item": {
+            "question_id": "6ba8fd22929c5c85",
+            "question": "What other name has the team with the least capacity of the 2012-13 LEB Oro for sponsorship reasons ?",
+            "table_id": "2012\u201313_LEB_Oro_season_0",
+            "answer-text": "MoraBanc Andorra",
+            "question_postag": "WP JJ NN VBZ DT NN IN DT JJS NN IN DT JJ NNP NNP IN NN NNS ."
+        }
+    },
+    "36": {
+        "keywords": [
+            "Bulgaria",
+            "European Cup",
+            "opponents",
+            "colors",
+            "1953 Bulgarian cup"
+        ],
+        "data_item": {
+            "question_id": "0f33c685590a82d1",
+            "question": "What colors do the opponents of Bulgaria 's only club to reach the European Cup semi-finals play in and which played in 1953 Bulgarian cup ?",
+            "table_id": "1953_Bulgarian_Cup_1",
+            "answer-text": "white and black",
+            "question_postag": "WP NNS VBP DT NNS IN NNP POS RB VBZ TO VB DT JJ NNP NNS NN IN CC WDT VBD IN CD JJ NN ."
+        }
+    },
+    "37": {
+        "keywords": [
+            "Brock Peters",
+            "actor",
+            "2005",
+            "Tom"
+        ],
+        "data_item": {
+            "question_id": "88c1ea6e8741a749",
+            "question": "What year did Brock Peters an actor who died at age 78 in 2005 a character in a film by the name of Tom ?",
+            "table_id": "2005_in_American_television_2",
+            "answer-text": "1962",
+            "question_postag": "WP NN VBD NNP NNP DT NN WP VBD IN NN CD IN CD DT NN IN DT NN IN DT NN IN NNP ."
+        }
+    },
+    "38": {
+        "keywords": [
+            "2018 Reno 1868 FC",
+            "transfer participant",
+            "goalkeeper",
+            "birth month"
+        ],
+        "data_item": {
+            "question_id": "e60cd6b7a84e8308",
+            "question": "Where is the 2018 Reno 1868 FC season transfer participant who shares the goalkeepers birth month being sent ?",
+            "table_id": "2018_Reno_1868_FC_season_1",
+            "answer-text": "Fussball Club Wil",
+            "question_postag": "WRB VBZ DT CD NNP CD NNP NN NN NN WP NNS DT NNS VBP NN VBG VBN ."
+        }
+    },
+    "39": {
+        "keywords": [
+            "Kyle Neypes",
+            "'17 PBA draft",
+            "population"
+        ],
+        "data_item": {
+            "question_id": "fb49f39eceefcb31",
+            "question": "Kyle Neypes who was drafted in the fourth round of the '17 PBA draft is from a country with a population of at least how many people ?",
+            "table_id": "2017_PBA_draft_5",
+            "answer-text": "100 million",
+            "question_postag": "NNP NNP WP VBD VBN IN DT JJ NN IN DT NNP NNP NN VBZ IN DT NN IN DT NN IN IN JJS WRB JJ NNS ."
+        }
+    },
+    "40": {
+        "keywords": [
+            "Savilian Professor",
+            "Astronomy",
+            "University of Oxford"
+        ],
+        "data_item": {
+            "question_id": "8e1fa880e969756f",
+            "question": "Where was educated Savilian Professor of Astronomy who held Savilian Chair of Geometry at the University of Oxford from 1797 to 1809 ?",
+            "table_id": "Savilian_Professor_of_Astronomy_0",
+            "answer-text": "Christ Church",
+            "question_postag": "WRB VBD VBN JJ NNP IN NNP WP VBD NNP NNP IN NNP IN DT NNP IN NNP IN CD TO CD ."
+        }
+    },
+    "41": {
+        "keywords": [
+            "Jackie Chan",
+            "Shangrila",
+            "album",
+            "death date"
+        ],
+        "data_item": {
+            "question_id": "b953c543b02d4e51",
+            "question": "What is the death date of the Jackie Chan studio album track listing with the title of Shangrila ?",
+            "table_id": "Jackie_Chan_discography_0",
+            "answer-text": "30 December 2003",
+            "question_postag": "WP VBZ DT NN NN IN DT NNP NNP NN NN NN NN IN DT NN IN NNP ."
+        }
+    },
+    "42": {
+        "keywords": [
+            "genre",
+            "album",
+            "Muscle Shoals Sound Studio",
+            "flute"
+        ],
+        "data_item": {
+            "question_id": "0ebdc47c547c1eb6",
+            "question": "What 's the genre of the album from the Muscle Shoals Sound Studio by one of the first musicians to specialise on the flute ?",
+            "table_id": "Muscle_Shoals_Sound_Studio_0",
+            "answer-text": "jazz",
+            "question_postag": "WP VBZ DT NN IN DT NN IN DT NNP NNP NNP NNP IN CD IN DT JJ NNS TO VB IN DT NN ."
+        }
+    },
+    "43": {
+        "keywords": [
+            "club",
+            "founded in 1954",
+            "Swiss coach",
+            "Algerian Ligue Professionnelle 1"
+        ],
+        "data_item": {
+            "question_id": "d103b892dcdba2a3",
+            "question": "Which club founded in 1954 had a Swiss coach for the 2015-2016 season of Algerian Ligue Professionnelle 1 ?",
+            "table_id": "2015\u201316_Algerian_Ligue_Professionnelle_1_0",
+            "answer-text": "MO B\u00e9ja\u00efa",
+            "question_postag": "WDT NN VBD IN CD VBD DT JJ NN IN DT JJ NN IN NNP NNP NNP CD ."
+        }
+    },
+    "44": {
+        "keywords": [
+            "2004 winner",
+            "second son",
+            "year"
+        ],
+        "data_item": {
+            "question_id": "13f7ab452862270a",
+            "question": "In what year was the 2004 winner 's second son born ?",
+            "table_id": "Latin_Grammy_Award_for_Best_Female_Pop_Vocal_Album_0",
+            "answer-text": "2006",
+            "question_postag": "IN WP NN VBD DT CD NN POS JJ NN VBN ."
+        }
+    },
+    "45": {
+        "keywords": [
+            "eliminated",
+            "January",
+            "season three",
+            "Rachael vs. Guy"
+        ],
+        "data_item": {
+            "question_id": "e4d8d057edfd9348",
+            "question": "What was the birth date of the last celebrity to be eliminated in January on season three of Rachael vs . Guy : Celebrity Cook-Off ?",
+            "table_id": "Rachael_vs._Guy:_Celebrity_Cook-Off_2",
+            "answer-text": "November 15 , 1962",
+            "question_postag": "WP VBD DT NN NN IN DT JJ NN TO VB VBN IN NNP IN NN CD IN NNP NN . NN : NN NNP ."
+        }
+    },
+    "46": {
+        "keywords": [
+            "Olympiacos",
+            "2014-15 LEN Champions League",
+            "2000 Summer Olympics"
+        ],
+        "data_item": {
+            "question_id": "a34414b6d4ed98c5",
+            "question": "What place did the oldest player on Olympiacos of 2014\u201315 LEN Champions League take at the 2000 Summer Olympics ?",
+            "table_id": "2014\u201315_LEN_Champions_League_squads_5",
+            "answer-text": "10th place",
+            "question_postag": "WP NN VBD DT JJS NN IN NNP IN CD NNP NNP NNP NN IN DT CD NNP NNP ."
+        }
+    },
+    "47": {
+        "keywords": [
+            "Mrs. Partlet",
+            "The Sorcerer",
+            "died",
+            "37"
+        ],
+        "data_item": {
+            "question_id": "ae4c4f243b9c112e",
+            "question": "Which Mrs. Partlet actress from the comic opera The Sorcerer died at the age of 37 ?",
+            "table_id": "The_Sorcerer_1",
+            "answer-text": "Harriett Everard",
+            "question_postag": "NNP NNP NNP NN IN DT JJ NN DT NNP VBD IN DT NN IN CD ."
+        }
+    },
+    "48": {
+        "keywords": [
+            "captain",
+            "2012 Superettan",
+            "head coach",
+            "Malm\u00f6 FF"
+        ],
+        "data_item": {
+            "question_id": "edf04164ef2fe9f7",
+            "question": "Who is the captain for the 2012 Superettan team whose head coach played one match for Malm\u00f6 FF in 1980 ?",
+            "table_id": "2012_Superettan_0",
+            "answer-text": "Kristian Haynes",
+            "question_postag": "WP VBZ DT NN IN DT CD NNP NN WP$ NN NN VBD CD NN IN NNP NNP IN CD ."
+        }
+    },
+    "49": {
+        "keywords": [
+            "provinces",
+            "Amstel Gold Race",
+            "2003 UCI Women's Road World Cup"
+        ],
+        "data_item": {
+            "question_id": "4c2736ad91b7c961",
+            "question": "How many provinces compose the nation that hosted the Amstel Gold Race in the 2003 UCI Women 's Road World Cup ?",
+            "table_id": "2003_UCI_Women's_Road_World_Cup_0",
+            "answer-text": "12",
+            "question_postag": "WRB JJ NNS VBP DT NN WDT VBD DT NNP NNP NNP IN DT CD NNP NNP POS NNP NNP NNP ."
+        }
+    }
+}
