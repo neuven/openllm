@@ -1,6 +1,7 @@
 # Paper
 
 **ICIC2024: Open-Domain Question Answering over Tables with Large Language Models**
+- [paper](https://link.springer.com/chapter/10.1007/978-981-97-5615-5_28)
 
 ![image](image/framework.png)
 
