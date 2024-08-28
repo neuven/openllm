@@ -2,7 +2,7 @@
 
 **ICIC2024: Open-Domain Question Answering over Tables with Large Language Models**
 
-![image](image/your_image.png)
+![image](image/overview.png)
 
 ## Environment
 - Python 3.7
