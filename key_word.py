@@ -225,29 +225,17 @@ if __name__ == '__main__':
                     choices=['nqtables', 'ottqa'])
     parser.add_argument('--dataset_split', type=str, default='test', choices=['train', 'dev', 'test'])
     #这里存好多个key
-    # parser.add_argument('--api_keys', type=ast.literal_eval,
-    #                     default=['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',
-    #                              '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',
-    #                              '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',
-    #                              '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',
-    #                              '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',
-    #                              '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',
-    #                              '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',
-    #                              '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',
-    #                              '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',
-    #                              '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',
-    #                              ])
     parser.add_argument('--api_keys', type=ast.literal_eval,
-                        default=['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',
-                                 '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',
-                                 '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',
-                                 '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',
-                                 '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',
-                                 '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',
-                                 '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',
-                                 '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',
-                                 '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',
-                                 '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',
+                        default=['',
+                                 '',
+                                 '',
+                                 '',
+                                 '',
+                                 '',
+                                 '',
+                                 '',
+                                 '',
+                                 '',
                                  ])
     parser.add_argument('--nucleus_p', type=float, default=0.5, help='nucleus sampling probability (0 to 1)')
     parser.add_argument('--prompt_file', type=str, default='template/keyword.txt')
